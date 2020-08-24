@@ -1,0 +1,4 @@
+Police.Police,0~password_police&login_police^r
+Ambulance.Ambulance,0~password_ambulance&login_ambulance^l
+Fireman.Fireman,0~password_fireman&login_fireman^k
+Gaz.Gaz,0~password_gaz&login_gaz^g

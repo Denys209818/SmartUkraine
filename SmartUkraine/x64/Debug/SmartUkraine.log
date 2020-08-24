@@ -1,0 +1,3 @@
+﻿  People.cpp
+C:\Users\Denis\Desktop\Новая папка\SmartUkraine\SmartUkraine\People.cpp(28,21): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  SmartUkraine.vcxproj -> C:\Users\Denis\Desktop\Новая папка\SmartUkraine\x64\Debug\SmartUkraine.exe
